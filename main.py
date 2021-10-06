@@ -6,5 +6,5 @@ def factorial(x):
     for i in range (1, x + 1):
         y = i * y
     return y
-#run functions
-print(factorial(10))
+#run function
+print(factorial(5))
